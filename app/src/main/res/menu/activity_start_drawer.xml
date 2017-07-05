@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Hem" />
+        <item
+            android:id="@+id/nav_order"
+            android:title="Beställ kort" />
+        <item
+            android:id="@+id/nav_prices"
+            android:title="Priser och storlekar" />
+        <item
+            android:id="@+id/nav_history"
+            android:title="Tidigare beställningar" />
+        <item
+            android:id="@+id/nav_help"
+            android:title="Hjälp"
+        />
+    </group>
+</menu>
